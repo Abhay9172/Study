@@ -11,3 +11,6 @@ English live class : Channel name : ABC Learning English || English Conversation
 Chess : ProfessorChess || https://www.youtube.com/watch?v=ozE-NNLnVCQ
 
 Astrology Book : Premium life path report 
+
+CI CD Jenkins : Jenkins Tutorial Step by Step | Day1 | Why we need to Learn Jenkins as QA
+                https://www.youtube.com/watch?v=qHkBX8jlBqo&list=PL8VbCbavWfeGt_Hyq0h9Pymi9DTGowd5X
