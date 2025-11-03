@@ -1,0 +1,226 @@
+🗓️ 20-DAY QA & AUTOMATION PRACTICE CHECKLIST
+
+PHASE 1 – MANUAL TESTING FUNDAMENTALS
+
+Day 1 – SDLC, STLC, Agile (Scrum)
+☐ Learn SDLC models and Agile ceremonies
+☐ Understand Scrum roles (PO, SM, Dev, QA)
+☐ Explore JIRA basics
+☐ Create a sample Test Strategy & Test Plan in Excel
+
+Day 2 – Manual Test Design
+☐ Learn Test Case, RTM, Defect Lifecycle
+☐ Understand Severity & Priority
+☐ Write 10 Test Cases for Login/Signup
+
+Day 3 – JIRA & Bug Tracking
+☐ Study JIRA Workflow & Issue Types
+☐ Practice linking bugs to stories/tasks
+☐ Create 3 sample defects on JIRA demo site
+
+Day 4 – Testing Types
+☐ Learn Functional, Regression, Smoke, Sanity Testing
+☐ Prepare Regression vs Sanity checklist
+
+Day 5 – Test Summary & Reports
+☐ Study Test Summary & Closure Reports
+☐ Learn QA Metrics (Pass %, Defect Density, etc.)
+☐ Prepare a Test Summary Report
+
+PHASE 2 – CORE JAVA FOR TESTERS
+
+Day 6 – Java Basics & Data Types
+☐ Learn variables, data types, operators, input/output
+☐ Write a marks & percentage calculator program
+
+Day 7 – Control Statements & Loops
+☐ Practice if-else, switch, for, while, do-while
+☐ Write program for prime & palindrome numbers
+
+Day 8 – Arrays, Strings & Methods
+☐ Understand 1D/2D arrays & string functions
+☐ Write methods for reverse string & sort array
+
+Day 9 – OOPs Concepts
+☐ Study Class, Object, Inheritance, Polymorphism, Abstraction, Encapsulation
+☐ Create Employee class with inheritance
+
+Day 10 – Collections, Exceptions & File I/O
+☐ Learn List, Set, Map, Try-Catch, FileReader/FileWriter
+☐ Store test data in List/Map and read/write file
+
+PHASE 3 – SELENIUM AUTOMATION TESTING
+
+Day 11 – Selenium Setup & Locators
+☐ Install Selenium + ChromeDriver
+☐ Practice findElement with XPath & CSS
+☐ Automate Login → Logout on demo site
+
+Day 12 – WebDriver Commands & Waits
+☐ Practice click, sendKeys, getText, waits
+☐ Automate Registration Form
+
+Day 13 – TestNG Framework
+☐ Learn Annotations, Assertions, Groups, DataProvider
+☐ Run suite with Login, Search, Logout modules
+
+Day 14 – POM & Data-Driven Framework
+☐ Create Page Classes and reusable methods
+☐ Use Excel for test data (Apache POI)
+
+Day 15 – Cucumber (BDD Framework)
+☐ Learn Gherkin syntax, Feature Files, Step Definitions
+☐ Write feature for Login with valid credentials
+
+PHASE 4 – API, DATABASE & CI/CD
+
+Day 16 – API Testing (Postman)
+☐ Learn REST APIs, methods, status codes
+☐ Test 5 APIs using Postman (GET/POST/PUT/DELETE)
+
+Day 17 – API Automation (Rest Assured)
+☐ Automate GET & POST requests using Rest Assured
+
+Day 18 – SQL for Testers
+☐ Learn SELECT, WHERE, JOIN, COUNT
+☐ Validate data from DB vs UI using MySQL
+
+Day 19 – CI/CD & Git Integration
+☐ Learn Git, GitHub, Maven, Jenkins
+☐ Push code to GitHub and trigger Jenkins build
+
+Day 20 – Final Project & Interview Prep
+☐ Integrate Framework + Reporting
+☐ Build “E-Commerce Test Suite”
+☐ Prepare 25 Manual + Automation Interview Questions
+
+MINI PROJECT (Days 17–20): E-Shop Automation Testing Suite
+
+☐ Login
+☐ Product Search
+☐ Add to Cart
+☐ Checkout
+☐ API (Order endpoint)
+☐ DB Validation
+
+Frameworks/Tools: Selenium, TestNG, Maven, Apache POI, Cucumber, Rest Assured, MySQL, Jenkins
+
+
+
+
+===================================================================================
+
+
+20-DAY MANUAL + AUTOMATION TESTING LEARNING PLAN
+
+PHASE 1: MANUAL TESTING FUNDAMENTALS (Days 1–5)
+
+Day 1 - SDLC, STLC, Agile (Scrum):
+Concepts: SDLC Models, Agile Ceremonies, Roles, JIRA Overview
+Task: Create a sample Test Strategy and Test Plan in Excel
+
+Day 2 - Manual Test Design:
+Concepts: Test Case Design, RTM, Defect Lifecycle, Severity and Priority
+Task: Write 10 test cases for Login and Signup module
+
+Day 3 - JIRA and Bug Tracking:
+Concepts: JIRA Workflow, Creating and Linking Defects
+Task: Create and track 3 sample defects in JIRA demo site
+
+Day 4 - Testing Types:
+Concepts: Functional, Regression, Smoke, Sanity, Integration Testing
+Task: Prepare a checklist comparing Regression and Sanity Testing
+
+Day 5 - Test Summary and Reports:
+Concepts: Test Summary, Closure Report, QA Metrics
+Task: Prepare a Test Summary Report for a sample module
+
+PHASE 2: CORE JAVA FOR TESTERS (Days 6–10)
+
+Day 6 - Java Basics and Data Types:
+Concepts: Variables, Data Types, Operators, Input/Output
+Task: Write a program to calculate total marks and percentage
+
+Day 7 - Control Statements and Loops:
+Concepts: if-else, switch, for, while, do-while
+Task: Write a program to find prime numbers and palindrome numbers
+
+Day 8 - Arrays, Strings, and Methods:
+Concepts: 1D/2D Arrays, String Functions, Method Overloading
+Task: Write functions to reverse a string and sort an array
+
+Day 9 - OOPs Concepts:
+Concepts: Class, Object, Inheritance, Polymorphism, Encapsulation, Abstraction
+Task: Create an “Employee” class with inheritance for QA Engineer
+
+Day 10 - Collections, Exception Handling, and File I/O:
+Concepts: List, Set, Map, Try-Catch, FileReader, FileWriter
+Task: Store and print test data from List/Map and read/write from file
+
+PHASE 3: SELENIUM AUTOMATION TESTING (Days 11–15)
+
+Day 11 - Selenium Setup and Locators:
+Concepts: WebDriver, ChromeDriver, findElement, XPath, CSS Selector
+Task: Automate Login → Logout on a demo website
+
+Day 12 - WebDriver Commands and Waits:
+Concepts: Click, sendKeys, getText, Implicit and Explicit Waits
+Task: Automate registration form and validate output
+
+Day 13 - TestNG Framework:
+Concepts: Annotations, Assertions, Groups, DataProvider
+Task: Run a test suite with 3 modules — Login, Search, and Logout
+
+Day 14 - POM and Data Driven Framework:
+Concepts: Page Classes, Reusable Methods, Excel Data using Apache POI
+Task: Build a small framework using Excel for test data
+
+Day 15 - Cucumber (BDD Framework):
+Concepts: Feature Files, Step Definitions, Gherkin Syntax
+Task: Write a feature file for “Login functionality with valid credentials”
+
+PHASE 4: API, DATABASE & CI/CD (Days 16–20)
+
+Day 16 - API Testing (Postman):
+Concepts: REST API, Methods, JSON, Status Codes
+Task: Test 5 APIs (GET, POST, PUT, DELETE) using Postman
+
+Day 17 - API Automation (Rest Assured):
+Concepts: Request, Response, Headers, JSON Path
+Task: Write automation for GET and POST API requests
+
+Day 18 - SQL for Testers:
+Concepts: SELECT, WHERE, JOIN, COUNT, Data Validation
+Task: Validate data from Database vs UI using MySQL
+
+Day 19 - CI/CD and Git Integration:
+Concepts: Git, GitHub, Maven, Jenkins Pipeline
+Task: Push project to GitHub and schedule Jenkins job
+
+Day 20 - Final Project and Interview Preparation:
+Concepts: Framework Integration, Reporting, Interview Practice
+Task: Create E-Commerce Test Suite and prepare 25 QA Interview Questions
+
+MINI PROJECT (Days 17–20): E-Shop Automation Testing Suite
+Modules Covered:
+
+Login
+
+Product Search
+
+Add to Cart
+
+Checkout
+
+API (Order Endpoint)
+
+Database Validation
+
+Frameworks & Tools Used:
+Selenium WebDriver, TestNG, Maven, Apache POI, Cucumber, Rest Assured, MySQL, Jenkins (for CI/CD)
+
+
+
+
+
+
