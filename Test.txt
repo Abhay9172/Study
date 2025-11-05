@@ -30,8 +30,22 @@ English in 100 Days : Learn ENGLISH with ChatGPT in 100 Days - 4 Step Method! | 
 
 
 
+Dear Priyanshu,
 
+I hope you are doing well.
 
+I came across the opening for a Manual Tester position at your organization and would like to express my interest in applying.
+
+I am a Detail-oriented Software Test Engineer with around 3 years of experience in Manual and Automation Testing. I have hands-on experience in Selenium WebDriver with Java, TestNG, Cucumber (BDD), Postman, Jenkins (CI/CD), and basic SQL for data validation. I am skilled in designing POM and Data-Driven Frameworks, performing Functional, Regression, UI, and API Testing, and have a solid understanding of SDLC, STLC, and Agile (Scrum) methodologies.
+
+I have attached my updated resume for your review. I would appreciate the opportunity to discuss how my skills and experience align with your team’s requirements.
+
+Looking forward to your response.
+
+Best regards,
+Abhay Kondalkar
+9172016216
+Pune kharadi.
 
 
 
